@@ -1,7 +1,7 @@
 # Prompt Engineering Portfolio
-Name: Richa Jain
-Date: 5/31/2026
-LLM Used: ChatGPT-4
+Name: Richa Jain  
+Date: 5/31/2026  
+LLM Used: ChatGPT-4  
 
 ## Part 1: Prompt Design & Iteration
 
