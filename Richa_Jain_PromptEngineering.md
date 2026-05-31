@@ -51,12 +51,69 @@ You are a professional career advisor. I received a job offer from a company tha
 
 Final LLM Response:  
 Subject: Thank You for the Opportunity  
+
 Dear Hiring Manager,  
+
 Thank you very much for offering me the position. I truly appreciate the time and effort that you and the team invested throughout the interview process.  
 After careful consideration, I have decided to accept another opportunity that aligns more closely with my current career goals. As a result, I must respectfully decline your offer.  
 I am sincerely grateful for the opportunity to learn more about your organization and meet such talented professionals. I hold your company in high regard and hope to stay connected for potential opportunities in the future.  
-Thank you again for your understanding, and I wish you and your team continued success.  
+Thank you again for your understanding, and I wish you and your team continued success. 
+
 Kind regards,  
 [Your Name]  
+
+### 1.1 Scenario C: Creative Content  
+
+Goal: Generate a marketing tagline for an eco-friendly water bottle brand.
+
+A. Initial Prompt (V1): Create a tagline for a water bottle.  
+Output Issue: The tagline was generic and not focused on sustainability.  
+
+B. Refined Prompt (V2): Create a tagline for an eco-friendly water bottle brand.  
+Output Issue: More relevant but not very memorable.  
+
+C. Final Prompt (V3):  
+You are a professional copywriter specializing in sustainable brands. Create 10 short, memorable taglines for a new eco-friendly water bottle company. The taglines should highlight sustainability, reusable design, and environmental responsibility. Keep each tagline under 8 words.  
+
+Final LLM Response: 
+1. Carry Water, Not Waste.  
+2. Refill Today, Protect Tomorrow.  
+3. Sip Sustainably, Live Responsibly.  
+4. Reuse More, Waste Less.  
+5. Every Refill Makes a Difference.  
+6. Hydration with a Smaller Footprint.  
+7. Drink Clean, Live Green.  
+8. One Bottle, Endless Refills.  
+9. Choose Reuse, Choose Earth.  
+10. Sustainable Sips for a Better Planet.
+
+### 1.2: Iteration Documentation  
+
+# Scenario A
+
+| Version | Prompt | What Changed | Why This Improved the Output |
+|----------|----------|----------|----------|
+| V1 | Explain neural networks. | N/A | N/A |
+| V2 | Explain neural networks in simple language. | Added simplicity requirement | Reduced technical jargon |
+| V3 | You are an expert teacher who explains difficult concepts to children. Explain neural networks to a 10-year-old using simple words, a real-life example, and an analogy. Avoid technical jargon and keep the explanation under 200 words. | Added role, audience, analogy, and word limit | More engaging and age-appropriate explanation |  
+
+# Scenario B
+
+| Version | Prompt | What Changed | Why This Improved the Output |
+|----------|----------|----------|----------|
+| V1 | Write an email declining a job offer. | N/A | N/A |
+| V2 | Write a polite email declining a job offer but thanking the company. | Added tone requirement | Made the email more professional and courteous |
+| V3 | You are a professional career advisor. I received a job offer from a company that I respect, but I have decided to accept another opportunity. Write a professional email that politely declines the offer, thanks the company for their time, and expresses interest in staying connected for future opportunities. Keep the tone respectful and positive. | Added role assignment and context | Produced a polished email that maintained a positive relationship |  
+
+# Scenario C
+
+| Version | Prompt | What Changed | Why This Improved the Output |
+|----------|----------|----------|----------|
+| V1 | Create a tagline for a water bottle. | N/A | N/A |
+| V2 | Create a tagline for an eco-friendly water bottle brand. | Added sustainability focus | Made the tagline relevant to the brand's purpose |
+| V3 | You are a professional copywriter specializing in sustainable brands. Create 10 short, memorable taglines for a new eco-friendly water bottle company. The taglines should highlight sustainability, reusable design, and environmental responsibility. Keep each tagline under 8 words. | Added role, brand context, and constraints | Generated creative, memorable, and targeted taglines |  
+
+
+
 
 
