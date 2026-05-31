@@ -50,11 +50,13 @@ C. Final Prompt (V3):
 You are a professional career advisor. I received a job offer from a company that I respect, but I have decided to accept another opportunity. Write a professional email that politely declines the offer, thanks the company for their time, and expresses interest in staying connected for future opportunities. Keep the tone respectful and positive.  
 
 Final LLM Response:  
-Subject: Thank You for the Opportunity
-Dear Hiring Manager,
-Thank you very much for offering me the position. I truly appreciate the time and effort that you and the team invested throughout the interview process.
-After careful consideration, I have decided to accept another opportunity that aligns more closely with my current career goals. As a result, I must respectfully decline your offer.
-I am sincerely grateful for the opportunity to learn more about your organization and meet such talented professionals. I hold your company in high regard and hope to stay connected for potential opportunities in the future.
-Thank you again for your understanding, and I wish you and your team continued success.
-Kind regards,
-[Your Name]
+Subject: Thank You for the Opportunity  
+Dear Hiring Manager,  
+Thank you very much for offering me the position. I truly appreciate the time and effort that you and the team invested throughout the interview process.  
+After careful consideration, I have decided to accept another opportunity that aligns more closely with my current career goals. As a result, I must respectfully decline your offer.  
+I am sincerely grateful for the opportunity to learn more about your organization and meet such talented professionals. I hold your company in high regard and hope to stay connected for potential opportunities in the future.  
+Thank you again for your understanding, and I wish you and your team continued success.  
+Kind regards,  
+[Your Name]  
+
+
