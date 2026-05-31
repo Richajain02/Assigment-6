@@ -30,10 +30,10 @@ Analogy: A Team of Detectives
 Think of a neural network as a team of detectives solving a mystery.
 * The first detectives look for simple clues, like color or shape.
 * The next detectives combine those clues.
-* The final detective makes the decision: "This is a banana!"
-If the team makes a mistake, they learn from it and do a little better next time.
-Real-Life Example: When you unlock a phone with your face, a neural network helps the phone recognize that it's really you. It has learned what your face looks like from examples.
-In short: A neural network is like a team of detectives that learns from many examples and gets better at making decisions over time.
+* The final detective makes the decision: "This is a banana!"  
+If the team makes a mistake, they learn from it and do a little better next time.  
+Real-Life Example: When you unlock a phone with your face, a neural network helps the phone recognize that it's really you. It has learned what your face looks like from examples.  
+In short: A neural network is like a team of detectives that learns from many examples and gets better at making decisions over time.  
 
 
 ### 1.1 Scenario B: Professional Email  
