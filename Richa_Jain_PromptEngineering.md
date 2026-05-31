@@ -89,7 +89,7 @@ Final LLM Response:
 
 ### 1.2: Iteration Documentation  
 
-# Scenario A
+A. Scenario A
 
 | Version | Prompt | What Changed | Why This Improved the Output |
 |----------|----------|----------|----------|
@@ -97,7 +97,7 @@ Final LLM Response:
 | V2 | Explain neural networks in simple language. | Added simplicity requirement | Reduced technical jargon |
 | V3 | You are an expert teacher who explains difficult concepts to children. Explain neural networks to a 10-year-old using simple words, a real-life example, and an analogy. Avoid technical jargon and keep the explanation under 200 words. | Added role, audience, analogy, and word limit | More engaging and age-appropriate explanation |  
 
-### Scenario B
+B. Scenario B
 
 | Version | Prompt | What Changed | Why This Improved the Output |
 |----------|----------|----------|----------|
@@ -105,7 +105,7 @@ Final LLM Response:
 | V2 | Write a polite email declining a job offer but thanking the company. | Added tone requirement | Made the email more professional and courteous |
 | V3 | You are a professional career advisor. I received a job offer from a company that I respect, but I have decided to accept another opportunity. Write a professional email that politely declines the offer, thanks the company for their time, and expresses interest in staying connected for future opportunities. Keep the tone respectful and positive. | Added role assignment and context | Produced a polished email that maintained a positive relationship |  
 
-### Scenario C
+C. Scenario C
 
 | Version | Prompt | What Changed | Why This Improved the Output |
 |----------|----------|----------|----------|
