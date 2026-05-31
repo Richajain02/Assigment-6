@@ -7,7 +7,7 @@ LLM Used: ChatGPT-4
 
 ### 1.1 Scenario A: Technical Explanation
 
-Goal:Explain Neural Networks to a 10-year-old child.
+Goal: Explain Neural Networks to a 10-year-old child.
 
 A. Initial Prompt (V1): Explain neural networks.
 Output Issue: The explanation was too technical and included complex terms.
@@ -38,7 +38,7 @@ In short: A neural network is like a team of detectives that learns from many ex
 
 ### 1.1 Scenario B: Professional Email  
 
-Goal:Politely decline a job offer while keeping a positive relationship.
+Goal: Politely decline a job offer while keeping a positive relationship.
 
 A. Initial Prompt (V1): Write an email declining a job offer.  
 Output Issue: The email sounded too short and impersonal.  
